@@ -1,0 +1,5 @@
+metier\ChatroomImpl$notConnectedException.class
+ServerRmi.class
+rmi\userInterface.class
+rmi\chatInterface.class
+metier\ChatroomImpl.class
